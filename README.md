@@ -40,9 +40,12 @@ En la pestaña Red puedes observar el GET de destinos y el POST GraphQL con el I
 ### Resultado de las pruebas
 
 El 22 de noviembre de 2026 probé Ruta Sur en Google Chrome,
-Microsoft Edge, Mozilla Firefox y Opera. La aplicación funcionó
-en los cuatro navegadores.
+Microsoft Edge, Mozilla Firefox y Opera, con la aplicación
+ejecutándose en local.
 
-En Lima se mostró el aviso de que no había vuelos disponibles
-y la sección de hoteles siguió visible.
+El catálogo y las páginas de San Pedro de Atacama, Bariloche y Lima
+abrieron sin problemas en los cuatro navegadores. Comprobé que podía
+entrar a cada destino, ver sus opciones de viaje y volver al catálogo.
 
+En Lima, la aplicación mostró el aviso de que no había vuelos disponibles
+y presentó el hotel correspondiente.
