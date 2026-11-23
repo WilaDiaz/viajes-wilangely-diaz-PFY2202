@@ -1,0 +1,24 @@
+{
+  "name": "viajes-pfy2202",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "postinstall": "msw init public --no-save"
+  },
+  "dependencies": {
+    "@apollo/client": "^4.0.0",
+    "graphql": "^16.11.0",
+    "msw": "^2.10.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.0",
+    "rxjs": "^7.8.2"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0",
+    "@vitejs/plugin-react": "^5.0.0"
+  }
+}
